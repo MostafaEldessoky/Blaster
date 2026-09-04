@@ -1,0 +1,29 @@
+**Steam subsystem Plugen**
+**Seamles travel**
+**death matrial effect**  
+**Rocket Trail**
+**Weapon Outline Effect**
+**adding combat&puff components with refactoring project**
+**Rotate in place**
+**reloading shotgun**
+**throw Grenade with hand**
+
+
+7- ammo pickup for each type 
+8- healing puff with rating each fream and fixed amount
+9- speed puff when standing and crouch amount and time to stay alive 
+10- jump puff z velocity and staying time 
+11- shield like health 
+12- spawner actor to spawn puffs ammo and weapon 
+13- spawn default weapon 
+
+**Lag Compansation**
+1-configer engine.ini for high ping 
+2-show on clinets ping notification if higher than 50ms 
+3-show pickup widget locally
+4-play cosmitecs when fire weapon locally to avoid lag and only register damage on server
+5-do scaters locally and send location to server for hit scan weapons 
+6-ammo aiming reloading clint side prediction implementation
+7- server side rewind player locations with hit scan & shotgun weapon and projectile weapons
+8- validate fire weapon rate sent from clints
+
